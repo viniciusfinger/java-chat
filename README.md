@@ -18,3 +18,8 @@ Para iniciar o cliente, use o comando `java ChatClient`. O programa solicitará 
 Contribuições são sempre bem-vindas!
 
 Para enviar suas alterações, clone o projeto, crie sua branch, faça as devidas alterações e/ou melhorias e então abra um pull request para ser verificado. 
+## Referência
+
+ - [Java SE 8 Socket](https://docs.oracle.com/javase/8/docs/api/java/net/Socket.html)
+ - [IFSC - Trabalhando com sockets TCP em Java](https://wiki.sj.ifsc.edu.br/index.php/Trabalhando_com_sockets_TCP_em_Java)
+
