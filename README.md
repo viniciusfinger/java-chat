@@ -1,7 +1,7 @@
 
 # Javachat ☕️💬
 
-Um chat no terminal usando Java + sockets de rede
+Um chat no terminal usando Java + comunicação entre sockets de rede usando o protocolo TCP
 
 
 ## Como usar 🤔
