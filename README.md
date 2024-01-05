@@ -1,24 +1,26 @@
 
 # Javachat ☕️💬
 
-Um chat no terminal usando Java + comunicação entre sockets de rede usando o protocolo TCP
+A chat on terminal using Java + communication between network sockets using the TCP protocol
 
 
-## Como usar 🤔
+## How to use 🤔
 
-Para usar, usando o seu terminal navegue até o diretório que contém os arquivos `ChatServer` e `ChatClient`.
+Using your terminal navigate to the directory containing the files `ChatServer.java` and `ChatClient.java`.
 
-Inicie o servidor usando o comando `java ChatServer`. A partir disso, você terá um servidor na porta `12345`.
+Start the server using the command `java ChatServer`. After that, you will have a server on port `12345`.
 
-Para iniciar o cliente, use o comando `java ChatClient`. O programa solicitará o endereço IP do servidor. Caso esteja rodando local, insira o IP da sua máquina ou então o IP referente ao localhost: `127.0.0.1`. A partir disso, informe seu nome de usuário e comece a conversar com seus amigos!
+To start the client, use the command `java ChatClient`. The program will ask for the server's IP address. If you're running local, enter your machine's IP or the IP for localhost: `127.0.0.1`. Enter your username and start chatting with your friends!
 
 
-## Contribuindo ⚒️
+## Contributing ⚒️
 
-Contribuições são sempre bem-vindas!
+Contributions are always welcome!
 
-Para enviar suas alterações, clone o projeto, crie sua branch, faça as devidas alterações e/ou melhorias e então abra um pull request para ser verificado. 
-## Referência
+To submit your changes, clone the project, create your branch, make the necessary changes and/or improvements and then open a pull request to be verified.
+
+
+## Reference
 
  - [Java SE 8 Socket](https://docs.oracle.com/javase/8/docs/api/java/net/Socket.html)
  - [IFSC - Trabalhando com sockets TCP em Java](https://wiki.sj.ifsc.edu.br/index.php/Trabalhando_com_sockets_TCP_em_Java)
